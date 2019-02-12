@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Another small project to practice/play around with front end web development. Features included are 
+- Conditional display of elements (using JSX variables).
+- Accepting user input and storing it in component state.
+Features that need to be added:
+- Better CSS styling of elements.
+- Redux state management.
+- User Authentication
+- Backend routing
+
 ## Available Scripts
 
 In the project directory, you can run:
